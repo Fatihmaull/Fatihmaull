@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **java, python, Flutter, C++, Dart, cryptography**
+- 🌱 I’m currently learning **Java, Python, Flutter, C#, cryptography**
 
 - 📫 How to reach me **fatihmaulanamail@gmail.com**
 
