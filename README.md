@@ -1,7 +1,7 @@
 # Hello friends! I'm Fatih, a Cybersecurity and Blockchain Enthusiast
 
 # 💫 About Me:
-🎓 *4th-semester of Informatics Engineering* study at Bandung.<br>🌟 Passionate about learning Cybersecurity, Web3, and Blockchain.<br>🚀 Actively improving skills in C, C++, Next.js, Typescript and Kali Linux.<br>👨‍🏫 Experienced in mentoring and collaborating on tech projects.<br>🛠 Currently exploring Solidity, Rust, Hardhat and building practical project solutions.
+🎓 **4th-semester of Informatics Engineering** study at Bandung.<br>🌟 Passionate about learning **Cybersecurity, Web3** and **Blockchain**.<br>🚀 Actively improving skills in **C, C++, Next.js, Typescript** and **Kali Linux.** <br>👨‍🏫 Experienced in mentoring and collaborating on tech projects.<br>🛠 Currently exploring **Solidity, Rust, Hardhat** and building practical project solutions.
 
 
 ## 🌐 Socials:
