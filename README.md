@@ -62,8 +62,10 @@ I am an **Informatics Engineering** student (Summa Cum Laude Track)  currently p
 
 <img src="https://github-readme-stats.vercel.app/api?username=fatihmaull&theme=tokyonight&hide_border=true&show_icons=true" alt="Fatih's GitHub Stats" />
 <br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=fatihmaull&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://streak-stats.demolab.com/?user=fatihmaull&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 <br/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihmaull&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 
 </div>
