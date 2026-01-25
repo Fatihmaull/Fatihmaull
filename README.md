@@ -63,15 +63,14 @@ I am an **Informatics Engineering** student (Summa Cum Laude Track)  currently p
 <img src="https://github-readme-stats.vercel.app/api?username=fatihmaull&theme=tokyonight&hide_border=true&show_icons=true" alt="Fatih's GitHub Stats" />
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=fatihmaull&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-<br/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihmaull&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 
 </div>
 
 ### 🏆 Achievements
-![](https://github-profile-trophy.vercel.app/?username=fatihmaull&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fatihmaull&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</div>
 
 ---
 
@@ -94,5 +93,5 @@ I am an **Informatics Engineering** student (Summa Cum Laude Track)  currently p
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
   <br>
-  <img src="https://visitcount.itsvg.in/api?id=fatihmaull&icon=5&color=12" />
+  <img src="https://komarev.com/ghpvc/?username=fatihmaull&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
