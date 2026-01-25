@@ -1,12 +1,12 @@
-# Hi there, I'm Fatih! 👋
+# Hello Friends, I'm Fatih! 👋
 
-### 🔐 Cybersecurity & Blockchain Enthusiast | ⚛️ Quantum Computing Researcher
+### whoami: Cybersecurity & Blockchain Enthusiast | Quantum Computing & Quant Finane Researcher
 
 I am an **Informatics Engineering** student (Summa Cum Laude Track)  currently pursuing a **Bachelor of Computer Science (Exchange Program)** at Universiti Utara Malaysia. I combine rigorous logical thinking with practical expertise in **low-level engineering** and **Web3 Security**.
 
 ---
 
-### 💫 Current Status
+### Current Status
 - 🎓 **Education:** Exchange Student at UUM (Malaysia) & Informatics Student at UIN Bandung.
 - 🛡️ **Focus:** Cybersecurity, Quant Finance, & Quantum ML.
 - ⛓️ **Blockchain Stack:** Exploring **Solidity, Rust, & Hardhat** for DeFi solutions.
@@ -15,7 +15,7 @@ I am an **Informatics Engineering** student (Summa Cum Laude Track)  currently p
 
 ---
 
-### 🚀 Featured Research & Projects
+### # Featured Research & Projects
 
 #### ⚛️ Quantum Computing & Data Science
 * **High-Energy Physics Event Classification:** Designed hybrid quantum-classical algorithms (Qiskit) for the ATLAS Higgs Boson Challenge, achieving **56.2% accuracy** with depth-2 circuits.
@@ -27,7 +27,7 @@ I am an **Informatics Engineering** student (Summa Cum Laude Track)  currently p
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **🌐 Web3 & Blockchain**
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
