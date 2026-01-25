@@ -71,9 +71,7 @@ I am an **Informatics Engineering** student (Summa Cum Laude Track)  currently p
 </div>
 
 ### 🏆 Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fatihmaull&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</div>
+![](https://github-profile-trophy.vercel.app/?username=fatihmaull&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
