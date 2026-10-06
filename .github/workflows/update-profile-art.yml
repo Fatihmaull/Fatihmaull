@@ -53,14 +53,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh contribution graph [skip ci]"
-          file_pattern: |
-            data/contributions.json
-            data/profile.json
-            assets/contrib-heatmap.svg
-            assets/contrib-heatmap-light.svg
-            assets/stats.svg
-            assets/stats-light.svg
-            assets/snake.svg
-            assets/snake-light.svg
-            assets/trophies.svg
-            assets/trophies-light.svg
+          # One line. A multiline pattern is passed through as a single
+          # argument and only the first path gets committed.
+          file_pattern: data/contributions.json data/profile.json assets/contrib-heatmap.svg assets/contrib-heatmap-light.svg assets/stats.svg assets/stats-light.svg assets/snake.svg assets/snake-light.svg assets/trophies.svg assets/trophies-light.svg
