@@ -1,0 +1,66 @@
+name: Update profile art
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile-art
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Fetch contribution calendar
+        run: python scripts/fetch_contributions.py
+        env:
+          GH_PROFILE_USER: Fatihmaull
+
+      - name: Fetch public profile
+        run: python scripts/fetch_profile.py
+        env:
+          GH_PROFILE_USER: Fatihmaull
+
+      - name: Render heatmap
+        run: python scripts/render_heatmap_svg.py
+
+      - name: Render streak card
+        run: python scripts/render_stats_svg.py
+
+      - name: Render contribution snake
+        run: python scripts/render_snake_svg.py
+
+      - name: Render trophies
+        run: python scripts/render_trophies_svg.py
+
+      - name: Commit generated assets
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh contribution graph [skip ci]"
+          file_pattern: |
+            data/contributions.json
+            data/profile.json
+            assets/contrib-heatmap.svg
+            assets/contrib-heatmap-light.svg
+            assets/stats.svg
+            assets/stats-light.svg
+            assets/snake.svg
+            assets/snake-light.svg
+            assets/trophies.svg
+            assets/trophies-light.svg

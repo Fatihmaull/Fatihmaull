@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-labelledby="title desc">
+<title>Fatih Maulana</title>
+<desc>Terminal banner. Forward Deployed Engineer and Researcher.</desc>
+<style><![CDATA[
+@keyframes banner-in {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes wave-in {
+  from { opacity: 0; transform: translateY(16px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.banner-copy { animation: banner-in 0.7s ease both; }
+.banner-wave { animation: wave-in 0.9s ease 0.15s both; }
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; }
+}
+]]></style>
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#1a1b27"/>
+<stop offset="0.55" stop-color="#24283b"/>
+<stop offset="1" stop-color="#1a1b27"/>
+</linearGradient>
+<clipPath id="capsule"><rect width="900" height="220" rx="28"/></clipPath>
+</defs>
+<g clip-path="url(#capsule)">
+<rect width="900" height="220" fill="url(#sky)"/>
+<g class="banner-wave"><path fill="#bb9af7" opacity="0.55" d="M0 168 C 140 148, 240 196, 380 170 S 640 146, 900 178 L 900 220 L 0 220 Z"/>
+<path fill="#7aa2f7" opacity="0.7" d="M0 184 C 160 166, 300 208, 460 186 S 720 160, 900 192 L 900 220 L 0 220 Z"/>
+<path fill="#7dcfff" opacity="0.9" d="M0 198 C 180 186, 340 214, 520 198 S 760 184, 900 206 L 900 220 L 0 220 Z"/></g>
+<g class="banner-copy">
+<circle cx="28" cy="28" r="6" fill="#f7768e"/>
+<circle cx="48" cy="28" r="6" fill="#e0af68"/>
+<circle cx="68" cy="28" r="6" fill="#9ece6a"/>
+<text x="88" y="33" fill="#565f89" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">fatih@github ~ $</text>
+<rect x="150" y="52" width="600" height="86" rx="14" fill="#1a1b27" opacity="0.82"/>
+<text x="450" y="90" text-anchor="middle" fill="#c0caf5" font-family="ui-sans-serif, Segoe UI, sans-serif" font-size="36" font-weight="700">Fatih Maulana</text>
+<text x="450" y="120" text-anchor="middle" fill="#7dcfff" font-family="ui-sans-serif, Segoe UI, sans-serif" font-size="16">Forward Deployed Engineer &amp; Researcher</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+assets/source-prepped.png
+assets/avatar.jpg
+assets/avatar.png
