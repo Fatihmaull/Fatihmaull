@@ -1,0 +1,5 @@
+# Local portrait rebuild only. The daily workflow does not install these.
+pillow
+numpy
+opencv-python-headless
+rembg[cpu]

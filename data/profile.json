@@ -1,0 +1,35 @@
+{
+  "user": "Fatihmaull",
+  "fetched_at": "2026-10-06T11:13:52+00:00",
+  "name": "Fatih Maulana",
+  "location": "Bandung. Indonesia",
+  "followers": 29,
+  "following": 35,
+  "public_repos": 73,
+  "achievements": [
+    {
+      "slug": "pair-extraordinaire",
+      "name": "Pair Extraordinaire",
+      "tier": "gold",
+      "count": 4
+    },
+    {
+      "slug": "pull-shark",
+      "name": "Pull Shark",
+      "tier": "silver",
+      "count": 3
+    },
+    {
+      "slug": "yolo",
+      "name": "YOLO",
+      "tier": "default",
+      "count": null
+    },
+    {
+      "slug": "quickdraw",
+      "name": "Quickdraw",
+      "tier": "default",
+      "count": null
+    }
+  ]
+}
