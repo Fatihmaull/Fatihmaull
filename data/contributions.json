@@ -1,10 +1,10 @@
 {
   "user": "Fatihmaull",
-  "fetched_at": "2026-10-10T12:37:30+00:00",
-  "total": 2872,
+  "fetched_at": "2026-10-11T12:56:21+00:00",
+  "total": 2962,
   "total_source": "header",
-  "summed_total": 2872,
-  "current_streak": 3,
+  "summed_total": 2962,
+  "current_streak": 4,
   "longest_streak": 34,
   "best_day": {
     "date": "2026-09-27",
@@ -65,13 +65,13 @@
     },
     {
       "month": "2026-10",
-      "count": 370
+      "count": 460
     }
   ],
   "months": [
     {
       "label": "Oct",
-      "colspan": 4
+      "colspan": 3
     },
     {
       "label": "Nov",
@@ -119,47 +119,10 @@
     },
     {
       "label": "Oct",
-      "colspan": 1
+      "colspan": 2
     }
   ],
   "weeks": [
-    [
-      {
-        "date": "2025-10-05",
-        "count": 0,
-        "level": 0
-      },
-      {
-        "date": "2025-10-06",
-        "count": 0,
-        "level": 0
-      },
-      {
-        "date": "2025-10-07",
-        "count": 0,
-        "level": 0
-      },
-      {
-        "date": "2025-10-08",
-        "count": 0,
-        "level": 0
-      },
-      {
-        "date": "2025-10-09",
-        "count": 0,
-        "level": 0
-      },
-      {
-        "date": "2025-10-10",
-        "count": 0,
-        "level": 0
-      },
-      {
-        "date": "2025-10-11",
-        "count": 0,
-        "level": 0
-      }
-    ],
     [
       {
         "date": "2025-10-12",
@@ -2080,9 +2043,22 @@
       },
       {
         "date": "2026-10-10",
-        "count": 66,
-        "level": 2
+        "count": 112,
+        "level": 4
       }
+    ],
+    [
+      {
+        "date": "2026-10-11",
+        "count": 44,
+        "level": 2
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
     ]
   ]
 }
