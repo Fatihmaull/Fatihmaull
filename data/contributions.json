@@ -1,6 +1,6 @@
 {
   "user": "Fatihmaull",
-  "fetched_at": "2026-11-05T14:43:28+00:00",
+  "fetched_at": "2026-11-06T14:21:12+00:00",
   "total": 3637,
   "total_source": "header",
   "summed_total": 3637,
@@ -2073,7 +2073,11 @@
         "count": 22,
         "level": 1
       },
-      null,
+      {
+        "date": "2026-11-06",
+        "count": 0,
+        "level": 0
+      },
       null
     ]
   ]
