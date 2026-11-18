@@ -1,6 +1,6 @@
 {
   "user": "Fatihmaull",
-  "fetched_at": "2026-11-17T16:06:26+00:00",
+  "fetched_at": "2026-11-18T15:44:04+00:00",
   "name": "Fatih Maulana",
   "location": "Bandung. Indonesia",
   "followers": 33,
@@ -8,16 +8,16 @@
   "public_repos": 82,
   "achievements": [
     {
-      "slug": "pair-extraordinaire",
-      "name": "Pair Extraordinaire",
+      "slug": "pull-shark",
+      "name": "Pull Shark",
       "tier": "gold",
       "count": 4
     },
     {
-      "slug": "pull-shark",
-      "name": "Pull Shark",
-      "tier": "silver",
-      "count": 3
+      "slug": "pair-extraordinaire",
+      "name": "Pair Extraordinaire",
+      "tier": "gold",
+      "count": 4
     },
     {
       "slug": "yolo",
